@@ -1,5 +1,5 @@
 tensorflow
 numpy
-pillo
+pillow
 gdown
 torch
